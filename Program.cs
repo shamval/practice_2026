@@ -216,3 +216,4 @@ class Program
         var summary = BenchmarkRunner.Run<SearchBenchmark>();
     }
 }
+
